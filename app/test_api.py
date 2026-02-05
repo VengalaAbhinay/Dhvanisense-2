@@ -14,7 +14,7 @@ def run_test():
         "audioBase64": encoded_audio
     }
     
-    headers = {"x-api-key": "sk_test_123456789"}
+    headers = {"x-api-key": "ds_live_8f2a1c9e7b4d3f0a1c9e8f2a1c9e7b4d"}
     
     print(f"🚀 Sending {FILE_TO_TEST} to API...")
     # Add a timeout of 60 seconds to allow the Transformer to process on CPU

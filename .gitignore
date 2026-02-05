@@ -6,3 +6,5 @@ __pycache__/
 *.pt
 *.bin
 .env
+validation_results.csv
+*.pyc
